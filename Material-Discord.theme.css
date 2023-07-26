@@ -33,3 +33,7 @@
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
 }
+
+.theme-dark {
+	--scrollbar-color: transparent !important;
+}
